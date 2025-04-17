@@ -1,16 +1,9 @@
+- 👋 Hi, I’m @KashanAdnan
+- 👀 I’m interested in coding New Projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a Chat App
+- 📫 How to reach me: fullstackdevkashan@gmail.com
 
-<img src="https://github.com/user-attachments/assets/5a839e46-792e-48cb-a5ef-835cfb7d52ec"/>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I talk so much. with own
 
-- 👋 Hi, I’m @KashanAdnan02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-KashanAdnan02/KashanAdnan02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
