@@ -1,9 +1,6 @@
 # 🚀 Kashan Adnan
 
 15+ projects for 4+ countries! Full-stack Dev, App Creator, UI/UX & Design Pro, YouTube Mentor. Taught 100+ students. Let’s boost your sales & impact! 🚀
-
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
 ---
 
 ## 🏆 My Achievements
@@ -41,9 +38,3 @@ With my expertise, I’ll turbocharge your vision:
 
 ### 🎨 Design
 ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=photoshop)
-
----
-
-## 📬 Let’s Connect
-
-⭐️ **Ready to soar?** Star this repo or drop a message, and let’s create something epic together! 🔥
