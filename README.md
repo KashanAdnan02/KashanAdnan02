@@ -1,4 +1,4 @@
-# 🚀 Welcome to Kashan Adnan's GitHub! 👋
+# 🚀 Welcome to Kashan Adnan's
 
 Hi, I'm **Kashan Adnan**, a passionate **Full-stack Web Developer**, **Graphic Designer**, **Mobile App Developer**, **UI/UX Designer**, **YouTuber**, and **Educator**! I love crafting innovative digital solutions, creating stunning visuals, and teaching over **100+ students** across **8 batches** to master web and app development. Currently, I'm diving deeper into **Python** to build even cooler projects! 🌱
 
@@ -18,13 +18,12 @@ Hi, I'm **Kashan Adnan**, a passionate **Full-stack Web Developer**, **Graphic D
 ## 🛠️ My Tech Stack
 
 ### 🌐 Frontend
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Vue.js](https://skillicons.dev/icons?i=vue)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) 
 
 ### ⚙️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![Django](https://skillicons.dev/icons?i=django)
-
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python)
 ### 📱 Mobile
-![React Native](https://skillicons.dev/icons?i=react) ![Expo](https://skillicons.dev/icons?i=expo) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Swift](https://skillicons.dev/icons?i=swift)
+![React Native](https://skillicons.dev/icons?i=react) ![Expo](https://skillicons.dev/icons?i=expo) 
 
 ### 🎨 Design
 ![Photoshop](https://skillicons.dev/icons?i=photoshop) ![Figma](https://skillicons.dev/icons?i=figma) ![Adobe XD](https://skillicons.dev/icons?i=xd) ![Canva](https://skillicons.dev/icons?i=canva)
@@ -49,31 +48,10 @@ Check out my [YouTube channel](https://www.youtube.com) for tutorials and tips! 
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some projects I'm proud of:
-
-- **Portfolio Website**  
-  A responsive site showcasing my work.  
-  **Tech**: React, Tailwind CSS, Firebase  
-  [View Project](#) | [Live Demo](#)
-
-- **Currency Converter App**  
-  Convert CAD to EUR, GBP, USD, and more in real-time.  
-  **Tech**: JavaScript, HTML, CSS  
-  [View Code](#) | [Live Demo](#)
-
-- **Interactive Image Gallery**  
-  Clickable images with a lightbox effect.  
-  **Tech**: HTML, CSS, JavaScript  
-  [View Code](#) | [Live Demo](#)
-
----
-
 ## 📬 Get in Touch
 
 I’m always open to collabs, projects, or just a chat about tech!  
-- 📩 **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- 📩 **Email**: [fullstackdevkashan@gmail.com](mailto:fullstackdevkashan@gmail.com)  
 - 🐦 **Twitter**: [@KashanAdnan](#)  
 - 📸 **Instagram**: [@KashanAdnan](#)  
 - 🎥 **YouTube**: [Kashan Adnan](#)  
