@@ -1,6 +1,7 @@
 # 🚀 Kashan Adnan
 
 15+ projects for 4+ countries! Full-stack Dev, App Creator, UI/UX & Design Pro, YouTube Mentor. Taught 100+ students. Let’s boost your sales & impact! 🚀
+
 ---
 
 ## 🏆 My Achievements
