@@ -29,13 +29,10 @@ With my expertise, I’ll turbocharge your vision:
 ## 💻 My Tech Arsenal
 
 ### 🌐 Frontend
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![React Native](https://skillicons.dev/icons?i=react)
 
 ### ⚙️ Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-### 📱 Mobile
-![React Native](https://skillicons.dev/icons?i=react) ![Expo](https://skillicons.dev/icons?i=expo)
 
 ### 🎨 Design
 ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=photoshop)
