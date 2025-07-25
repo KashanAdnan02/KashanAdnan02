@@ -29,10 +29,13 @@ With my expertise, I’ll turbocharge your vision:
 ## 💻 My Tech Arsenal
 
 ### 🌐 Frontend
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![React Native](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![React Native](https://skillicons.dev/icons?i=react) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Vite](https://skillicons.dev/icons?i=vite) ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### ⚙️ Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Django](https://skillicons.dev/icons?i=django)
 
 ### 🎨 Design
-![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=photoshop) ![Adobe XD](https://skillicons.dev/icons?i=xd)
+
+### 🛠️ DevOps & Tools
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![AWS](https://skillicons.dev/icons?i=aws) ![Firebase](https://skillicons.dev/icons?i=firebase)
