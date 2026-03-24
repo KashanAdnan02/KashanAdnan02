@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashan Adnan</h1>
 <h3 align="center">Code > Everything else</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashanadnan02&label=Profile%20views&color=0e75b6&style=flat" alt="kashanadnan02" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kashanadnan02&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/181986639?s=400&u=6a747b414ef3c0557f50f1f7fefd34508f0790db&v=4)" alt="kashanadnan02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashanadnan02" alt="kashanadnan02" /></a> </p>
 
