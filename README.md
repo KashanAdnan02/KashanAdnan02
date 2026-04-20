@@ -16,6 +16,6 @@ An Automative Scrapper to For Jobs<br>Nothing rn<br><br>Python, Tensorflow<br>Me
 ![](https://github-profile-trophy.vercel.app/?username=KashanAdnan02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=KashanAdnan02&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=KashanAdnan02&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
