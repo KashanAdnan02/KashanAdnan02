@@ -1,21 +1,322 @@
-# 💫 About Me:
-An Automative Scrapper to For Jobs<br>Nothing rn<br><br>Python, Tensorflow<br>Mern Stack, Full Stack Development, Cloud Managment<br>I love programming
+<div align="center">
 
+# Hi, I'm Kashan Adnan 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kashan.adnan.932117) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashanadnan772) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashan-adnan-dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeWithKashan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fullstackdevkashan@gmail.com) 
+### Full-Stack Software Developer · MERN Stack · React Native · Python
 
-# 💻 Tech Stack:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KashanAdnan02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KashanAdnan02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KashanAdnan02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**I build production-ready web & mobile products — from polished interfaces to scalable APIs, SaaS platforms, real-time systems, and payment integrations.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KashanAdnan02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+Mobile+Developer;Building+SaaS+%26+Real-World+Products;Turning+Ideas+Into+Production+Software" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kashanadnan.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashanadnan-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/KashanAdnan02)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=KashanAdnan02&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Software Developer from Karachi, Pakistan**, focused on building complete digital products rather than just individual pages or components.
+
+My work spans **frontend engineering, backend APIs, databases, authentication, payment systems, SaaS dashboards, real-time applications, cloud deployments, and mobile development**.
+
+Alongside development, I work as an **educator and technical trainer**, helping the next generation of developers understand programming by building real projects.
+
+```javascript
+const kashan = {
+  role: "Full-Stack Software Developer",
+  location: "Karachi, Pakistan",
+
+  frontend: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Redux Toolkit"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "JWT",
+    "Socket.io"
+  ],
+
+  databases: [
+    "MongoDB",
+    "PostgreSQL",
+    "Supabase",
+    "Firebase"
+  ],
+
+  mobile: ["React Native", "Expo"],
+
+  python: [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "TensorFlow"
+  ],
+
+  currentlyFocusedOn: [
+    "Production SaaS",
+    "Backend Architecture",
+    "AI-powered Applications",
+    "Scalable Systems"
+  ],
+
+  philosophy: "Build useful things. Ship them. Improve them."
+};
+```
+
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Full-Stack Applications
+
+Complete applications using **React / Next.js + Node.js + MongoDB**, including authentication, dashboards, APIs, admin panels, payments and deployments.
+
+</td>
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Cross-platform mobile applications using **React Native & Expo**, connected with production APIs and cloud services.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ SaaS Platforms
+
+Multi-user systems featuring **role-based access, analytics, subscriptions/payments, dashboards and business workflows**.
+
+</td>
+<td width="50%">
+
+### 🤖 Python & AI
+
+Python applications involving **data processing, machine learning, automation and AI-powered product features**.
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⭐ Featured Work
+
+### 🏟️ Ground Zero — Sports Facility Booking SaaS
+
+A full-stack multi-facility sports booking and management platform.
+
+**Highlights**
+
+- Multi-role authentication and authorization
+- Facility & site management
+- Real-time booking availability
+- Booking conflict prevention
+- Payment processing
+- Automated booking lifecycle
+- Refund & cancellation workflows
+- Revenue and booking analytics
+- Admin, investor and facility-management dashboards
+
+**Stack:** `React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Socket.io` `Razorpay` `Cloudinary`
+
+[View Repository →](https://github.com/KashanAdnan02/client-GZero)
+
+---
+
+### 🎓 Learning Management System — SaaS
+
+A scalable education platform designed around **students, instructors and administrators**.
+
+**Features include**
+
+- Course management
+- Teacher dashboards
+- Student management
+- Attendance
+- Assignments
+- Announcements
+- Payments
+- Financial reporting
+- Student analytics
+- Role-based portals
+
+**Stack:** `MongoDB` `Express.js` `React.js` `Node.js`
+
+---
+
+### 🌍 European Consultants Platform
+
+A production client platform built with the MERN stack featuring **service management, appointments, payments and administration tools**.
+
+**Key features**
+
+- Five-page production website
+- Appointment booking
+- Stripe payment integration
+- Service CRUD
+- Appointment management
+- Dynamic service pricing
+- Administrative dashboard
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Stripe`
+
+🌐 [Visit Live Website](https://europeansconsultants.com/)
+
+---
+
+## 🧰 Technology Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase,redis" />
+</p>
+
+### Mobile, Python & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,python,tensorflow" />
+</p>
+
+### Development & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
+</p>
+
+---
+
+## 🔧 Engineering Areas I Work With
+
+```text
+Frontend Engineering       ███████████████████░
+Backend / REST APIs        ███████████████████░
+MongoDB / Data Modeling    ██████████████████░░
+Authentication / RBAC      ██████████████████░░
+SaaS Development           ██████████████████░░
+React Native               ████████████████░░░░
+Python / Data / AI         ███████████████░░░░░
+```
+
+---
+
+## 💼 Beyond Coding
+
+Development is only one part of what I do.
+
+### 👨‍🏫 Educator
+
+I've helped teach programming and software development to **150+ students**, focusing on practical skills and project-based learning.
+
+### 🏢 Aaghaaz Tech
+
+I founded **Aaghaaz Tech**, an initiative focused on technology education and helping students learn modern software development.
+
+### 🎥 Technical Content
+
+I create programming content covering topics including:
+
+`JavaScript` · `React` · `Python` · `Web Development` · `Full-Stack Development`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KashanAdnan02&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashanAdnan02&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KashanAdnan02&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/KashanAdnan02/KashanAdnan02/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 💻 A Little Developer Energy
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer Coding GIF"/>
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- Building **production-grade SaaS products**
+- Improving **backend architecture & system design**
+- Developing scalable **React / Next.js applications**
+- Building **AI-powered applications**
+- Exploring better **DevOps & deployment workflows**
+- Contributing to meaningful open-source projects
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in opportunities where I can **solve real problems, contribute to production products and continue growing as an engineer**.
+
+I'm especially interested in:
+
+**Full-Stack Development · MERN Stack · React / Next.js · Node.js · React Native · SaaS Development**
+
+<div align="center">
+
+### Have an interesting project or opportunity?
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashanadnan-dev)
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kashanadnan.netlify.app)
+
+<br/>
+
+**“Build useful things. Ship them. Keep improving.”**
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
